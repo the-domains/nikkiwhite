@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[NikkiWhite]]></title>
         <description><![CDATA[NikkiWhite]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/nikkiwhite/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 14 Apr 2016 07:32:24 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 14 Apr 2016 07:34:14 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/nikkiwhite/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fc70bc1f-2caf-4b73-9ff0-a77fe8fe1c4e.jpg">]]></description>
+            <link>https://thegrid.ai/nikkiwhite/f19c7ad8-064b-4a41-b2ea-549fbb32c015/index.html</link>
+            <guid isPermaLink="false">f19c7ad8-064b-4a41-b2ea-549fbb32c015</guid>
+            <pubDate>Thu, 14 Apr 2016 07:33:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/89c463ab-33ef-46c3-841f-c74ee90c79d4.jpg">]]></description>
-            <link>undefined04fcdd04-bfd0-4741-9bde-f1895e239669/index.html</link>
+            <link>https://thegrid.ai/nikkiwhite/04fcdd04-bfd0-4741-9bde-f1895e239669/index.html</link>
             <guid isPermaLink="false">04fcdd04-bfd0-4741-9bde-f1895e239669</guid>
             <pubDate>Thu, 14 Apr 2016 07:32:16 GMT</pubDate>
         </item>
